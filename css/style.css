@@ -1,0 +1,135 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background: url(../img/first-bg.jpg) no-repeat center top / cover;
+	padding-bottom: 162px;
+}
+
+
+.logo {
+	margin-top: 50px;
+}
+
+nav {
+	margin-top: 50px;
+}
+ 
+.menu {
+	display: block;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.menu li {
+	display: block;
+	margin-right: 41px;
+}
+
+.menu a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.title {
+	color: #ffffff;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top:215px;
+}
+
+h1 {
+	font-size: 75px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+.btn {
+	background: #fed136;
+	color: #484543;
+	border-radius: 3px;
+	width: 240px;
+	padding: 20px 0;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.first-section {
+	margin-top: 120px;
+}
+
+
+.section-h {
+	color: #222222;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.section-p {
+	color: #777777;
+}
+
+.services {
+	margin-top: 80px;
+}
+
+.title-info {
+	font-weight: bold;
+	margin-top: 25px;
+}
+
+.p-info {
+	color: #a2a2a2;
+	margin-top: 17px;
+	margin-bottom: 120px;
+}
+
+
+.second-section {
+	padding-top: 120px;
+	padding-bottom: 135px;
+	background: #f7f7f7;
+}
+
+.portfolio-images {
+	margin-top: 81px;
+}
+
+.third-section	{
+	padding-top: 130px;
+	padding-bottom: 120px;
+}
+
+
+.about	{
+	margin-top: 80px;
+}
+
+.a2 {
+	margin-left: 50px;
+}
+
+
+.about-text h5:first-child {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.about-text h5 {
+	font-weight: bold;
+}
+
+
+.footer-p {
+	color: #a2a2a2;
+	margin-bottom: 110px;
+}
+
+
+
